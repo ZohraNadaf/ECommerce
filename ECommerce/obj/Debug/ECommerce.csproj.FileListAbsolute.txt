@@ -1,0 +1,7 @@
+C:\Users\ZUHI\source\repos\ECommerce\ECommerce\bin\Debug\ECommerce.exe.config
+C:\Users\ZUHI\source\repos\ECommerce\ECommerce\bin\Debug\ECommerce.exe
+C:\Users\ZUHI\source\repos\ECommerce\ECommerce\bin\Debug\ECommerce.pdb
+C:\Users\ZUHI\source\repos\ECommerce\ECommerce\obj\Debug\ECommerce.csprojResolveAssemblyReference.cache
+C:\Users\ZUHI\source\repos\ECommerce\ECommerce\obj\Debug\ECommerce.csproj.CoreCompileInputs.cache
+C:\Users\ZUHI\source\repos\ECommerce\ECommerce\obj\Debug\ECommerce.exe
+C:\Users\ZUHI\source\repos\ECommerce\ECommerce\obj\Debug\ECommerce.pdb
